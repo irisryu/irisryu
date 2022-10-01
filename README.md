@@ -1,4 +1,4 @@
-### Hi there 👋
+### IRIS RYU（アイリス・リュウ）
 
 <!--
 **irisryu/irisryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
